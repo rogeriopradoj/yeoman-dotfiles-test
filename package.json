@@ -1,0 +1,17 @@
+{
+  "name": "yeoman-dotfiles-test",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [],
+  "author": "Rogerio Prado de Jesus",
+  "license": "MIT",
+  "repository": "git://github.com/rogeriopradoj/yeoman-dotfiles-test.git",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
